@@ -4,14 +4,14 @@
 <h4 align="center"> Hello World! 👋 </h4>
 
 ## Jean Charles - FullStack <img src="https://komarev.com/ghpvc/?username=jeancharlesx64&color=539BF5" align="right">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=&size=20&lines=Analista+e+Desenvolvedor+de+Sistemas;" />
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=&size=20&lines=Software+Developer+and+Analyst;" />
 
-#### 💻 &nbsp; Sobre mim 
-- ❤ Apaixonado por programação;
-- 🎓 Tenho formação técnica na ETEC - Guaianazes;
-- 🎓 Atualmente estudando na SPTech School;
-- 📚 Trabalhando em um projeto integrado em IoT do 1° semestre da faculdade;
-- 🌱 Aberto para aprender qualquer tecnologia.
+#### 💻 &nbsp; About me
+- ❤ Passionate about programming;
+- 🎓 I have technical training at [ETEC - Guaianazes](https://www.cps.sp.gov.br/etecs/etec-de-guaianazes-guaianazes/);
+- 🎓 Currently studying at [SPTech School](https://www.sptech.school/);
+- 📚 Working on an integrated [IoT project](https://github.com/jeancharlesx64/iot-project-first-semester) from the 1st semester of college;
+- 🌱 Open to learn any technology.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -25,7 +25,7 @@
 </div>
 
 #### :rocket: &nbsp; Hard Skills
-<h5 align="center">Tecnologias de Desenvolvimento</h5>
+<h5 align="center">Development Technologies</h5>
 <div align="center">
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
@@ -50,7 +50,7 @@
 </div>
 <hr>
 
-<h5 align="center">Sistema de Gerenciamento de Dados (SGDB)</h5>
+<h5 align="center">Database Management System (SGDB)</h5>
 <div align="center">
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/>
@@ -58,7 +58,7 @@
 </div>
 <hr>
 
-<h5 align="center">Ferramentas de produção</h5>
+<h5 align="center">Production Tools</h5>
 <div align="center">
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" alt="eclipse" title="eclipse"/>
