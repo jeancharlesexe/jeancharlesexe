@@ -10,7 +10,7 @@
 - ❤ Passionate about programming;
 - 🎓 I have technical training at [ETEC - Guaianazes](https://www.cps.sp.gov.br/etecs/etec-de-guaianazes-guaianazes/);
 - 🎓 Currently studying at [SPTech School](https://www.sptech.school/);
-- 📚 Working on an integrated [IoT project](https://github.com/jeancharlesx64/iot-project-first-semester) from the 1st semester of college;
+- 📚 Working on an integrated [IoT project](https://github.com/soytech-solutions) from the 1st semester of college;
 - 🌱 Open to learn any technology.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
