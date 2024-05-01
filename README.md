@@ -37,6 +37,7 @@
 	      { database: ['MySQL', 'SQL Server','MongoDB'] },
 	      { cloud: ['Azure'] },
               { toolsDev: ['Vite','Xampp'] },
+	      { op: ['Windows','Kali Linux'] }
 	      { iot: ['C++ Arduino'] },
 	      { design: ['Figma','Photoshop'] },
 	      { methodologies: ['Scrum'] }
