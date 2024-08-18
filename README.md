@@ -3,7 +3,7 @@
 
 <h4 align="center"> Hello World! 👋 </h4>
 
-## Jean Charles - FullStack <img src="https://komarev.com/ghpvc/?username=jeancharlesx64&color=539BF5" align="right">
+## Jean Charles <img src="https://komarev.com/ghpvc/?username=jeancharlesx64&color=539BF5" align="right">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=&size=20&lines=Software+Developer+and+Analyst;" />
 
 #### 💻 &nbsp; About me
