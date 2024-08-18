@@ -11,7 +11,7 @@
 - 🎓 I have technical training at [ETEC - Guaianazes](https://www.cps.sp.gov.br/etecs/etec-de-guaianazes-guaianazes/);
 - 🎓 Currently studying at [SPTech School](https://www.sptech.school/);
 - 📚 Working on an data analysis project (https://github.com/DataSane) from the 2nd semester of college;
-- 💼 Backend Developer at [Stefanini Brazil](https://stefanini.com/pt-br);
+- 💼 Backend Developer at [Stefanini Group](https://stefanini.com/pt-br);
 - 🌱 Open to learn any technology.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
