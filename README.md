@@ -29,23 +29,23 @@
 	    ],
 	    backend: [
 	      { native: ['Java', 'Javascript','PHP'] },
-	      { framework: ['Spring Boot','NodeJS','Laravel'] },
-	      { modules: ['Express','SocketIO', 'EJS','Handlebars']},
+	      { framework: ['Spring Boot','NodeJS','Laravel','Drupal','Wordpress'] },
+	      { modules: ['Express','SocketIO', 'EJS','Handlebars','Blade']},
 	      { pkgManager: ['NPM', 'Yarn']}
 	    ],
 	    others: [
-	      { ide: ['VSCode', 'Eclipse', 'Arduino'] },
+	      { ide: ['VSCode', 'Eclipse', 'IntelliJ', 'Arduino'] },
 	      { database: ['MySQL', 'SQL Server','MongoDB'] },
-	      { cloud: ['Azure'] },
-              { toolsDev: ['Vite','Xampp'] },
-	      { op: ['Windows','Kali Linux'] }
+	      { cloud: ['Azure', 'AWS'] },
+              { toolsDev: ['Vite','Xampp', 'Docker'] },
+	      { op: ['Windows','Kali Linux', 'Ubuntu'] }
 	      { iot: ['C++ Arduino'] },
 	      { design: ['Figma','Photoshop'] },
 	      { methodologies: ['Scrum'] }
 	    ],
 	  },
 	  hobbies: [
-	    { leisure: ['Games', 'Traveling', 'Music'] }
+	    { leisure: ['Work out', 'Traveling', 'Music'] }
 	  ],
 	};
 ```
