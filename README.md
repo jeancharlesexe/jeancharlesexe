@@ -36,7 +36,7 @@ const jeanProfile = {
     backend: {
       languages: ['Java', 'JavaScript', 'PHP'],
       frameworks: {
-        java: ['Spring Boot', 'H2', 'JPA'],
+        java: ['Spring Boot'],
         javascript: ['NodeJS', 'ExpressJS'],
         php: ['Laravel', 'Drupal', 'WordPress']
       },
@@ -47,7 +47,7 @@ const jeanProfile = {
     database: {
       relational: ['MySQL', 'SQL Server', 'H2'],
       noSQL: ['MongoDB'],
-      orms: ['Sequelize', 'Mongoose']
+      orms: ['Sequelize', 'Mongoose', 'JPA']
     },
     devOps: {
       cloud: {
