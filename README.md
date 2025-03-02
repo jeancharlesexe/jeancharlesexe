@@ -45,6 +45,10 @@ const jeanProfile = {
       apis: ['RESTful API Design', 'API Documentation'],
       tools: ['Insomnia']
     },
+    architecture: {
+      patterns: ['MVC'],
+      principles: ['Design Patterns']
+    },
     database: {
       relational: ['MySQL', 'SQL Server', 'H2'],
       noSQL: ['MongoDB'],
@@ -62,7 +66,7 @@ const jeanProfile = {
     },
     packageManagers: ['NPM', 'Yarn', 'Composer'],
     ides: ['VSCode', 'Eclipse', 'IntelliJ IDEA', 'Arduino IDE'],
-    operatingSystems: ['Windows', 'Kali Linux', 'Ubuntu', 'macOS'],
+    operatingSystems: ['Windows', 'Kali Linux', 'Ubuntu', 'WSLs'],
     iot: {
       languages: ['C++'],
       platforms: ['Arduino']
