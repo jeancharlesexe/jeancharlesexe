@@ -42,6 +42,7 @@ const jeanProfile = {
       },
       templating: ['EJS', 'Handlebars', 'Blade'],
       realtime: ['SocketIO', 'WebSockets'],
+      apis: ['RESTful API Design', 'API Documentation'],
       tools: ['Insomnia']
     },
     database: {
