@@ -28,7 +28,7 @@ const jeanProfile = {
       styling: ['Sass', 'Bootstrap', 'Materialize', 'Tailwind CSS'],
       frameworks: {
         react: {
-          core: ['React', 'React Native', 'Next.js'],
+          core: ['React', 'React Native'],
           ui: ['Material UI', 'Styled-components']
         }
       },
