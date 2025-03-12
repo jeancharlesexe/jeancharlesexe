@@ -10,7 +10,7 @@
 - ❤ Passionate about programming;
 - 🎓 I have technical training at [ETEC - Guaianazes](https://www.cps.sp.gov.br/etecs/etec-de-guaianazes-guaianazes/);
 - 🎓 Currently studying at [SPTech School](https://www.sptech.school/);
-- 📚 Working on stock manager software [Hardware Tech](https://github.com/azenith-solutions) from the 3nd semester of college;
+- 📚 Working on stock manager software [Hardware Tech](https://github.com/azenith-solutions) from the 3rd semester of college;
 - 💼 Fullstack Developer at [Stefanini Group - Interteam](https://stefanini.com/pt-br);
 - 🌱 Open to learn any technology.
 
