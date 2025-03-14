@@ -129,6 +129,5 @@ const jeanProfile = {
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeancharlesexe&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/>
   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeancharlesexe&theme=github_dark"/>
   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeancharlesexe&theme=github_dark"/>
-  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeancharlesxexe&theme=github_dark&utcOffset=-3"/> <br>
 </div>
 
